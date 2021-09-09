@@ -1,0 +1,2 @@
+rootProject.name = "crud2sqlite"
+include ':app'
